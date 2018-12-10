@@ -1,6 +1,8 @@
 <?php
 
-echo"Ola mundo"
+echo"Ola mundo46"
+
+echo"ola randalis"
 
 
 ?>
